@@ -11,4 +11,5 @@
 * 视频
 * [算法](suan-fa.md)
 * [数学](shu-xue.md)
+* [机器学习工程师必知的十大算法](ji-qi-xue-xi-gong-cheng-shi-bi-zhi-de-shi-da-suan-fa.md)
 
