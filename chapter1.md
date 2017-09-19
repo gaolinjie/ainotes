@@ -4,29 +4,27 @@ link: 'https://www.leiphone.com/news/201609/gox8CoyqMrXMi4L4.html'
 
 # 人工智能、机器学习和深度学习之间的区别和联系
 
-**人工智能 &gt; 机器学习 &gt; 深度学习**
+#### **人工智能 &gt; 机器学习 &gt; 深度学习**
 
 ![](https://static.leiphone.com/uploads/new/article/740_740/201609/57ce9265aae3f.png?imageMogr2/format/jpg/quality/90 "人工智能、机器学习和深度学习之间的区别和联系")
 
 
 
-**人工智能（Artificial Intelligence）——为机器赋予人的智能**
+#### **人工智能（Artificial Intelligence）——为机器赋予人的智能**
 
 ![](/assets/import.png)
 
-“**强人工智能**”（General AI）
+* “**强人工智能**”（General AI）
 
 拥有与人类智慧同样本质特性的机器。它有着我们所有的感知（甚至比人更多），我们所有的理性，可以像我们一样思考。
 
-“**弱人工智能**”（Narrow AI）
+* “**弱人工智能**”（Narrow AI）
 
-我们目前能实现的**弱人工智能是能够与人一样，甚至比人更好地执行特定任务的技术。**例如，Pinterest上的图像分类；或者Facebook的人脸识别。
-
-这些是弱人工智能在实践中的例子。这些技术实现的是人类智能的一些具体的局部。但它们是如何实现的？这种智能是从何而来？这就带我们来到同心圆的里面一层，机器学习。
+我们目前能实现的**弱人工智能是能够与人一样，甚至比人更好地执行特定任务的技术。**例如，Pinterest上的图像分类；或者Facebook的人脸识别。这些技术实现的是人类智能的一些具体的局部。通过机器学习实现的。
 
 
 
-**\|机器学习—— 一种实现人工智能的方法**
+#### **机器学习—— 一种实现人工智能的方法**
 
 ![](https://static.leiphone.com/uploads/new/article/740_740/201609/57ce956b0a1d9.png?imageMogr2/format/jpg/quality/90 "人工智能、机器学习和深度学习之间的区别和联系")
 
