@@ -5,4 +5,5 @@
 * [文章](wen-zhang.md)
 * [书](shu.md)
 * 视频
+* [算法](suan-fa.md)
 
